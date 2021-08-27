@@ -1,5 +1,5 @@
 # Vocab_Study
-ON GOING PROJECT 
+ON GOING PROJECT
 Java program to help learn new vocabulary in different languages
 
 Future updates:
